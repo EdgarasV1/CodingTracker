@@ -11,12 +11,6 @@ namespace CodingTracker
         static void Main(string[] args)
         {
             Console.WriteLine("Hi hi hi... hello hello");
-            Console.WriteLine("Hi hi hi... hello hello");
-            Console.WriteLine("Hi hi hi... hello hello");
-            Console.WriteLine("Hi hi hi... hello hello");
-            Console.WriteLine("Hi hi hi... hello hello");
-            Console.WriteLine("Hi hi hi... hello hello");
-            Console.WriteLine("Hi hi hi... hello hello");
         }
     }
 }
