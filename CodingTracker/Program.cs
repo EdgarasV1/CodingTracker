@@ -10,7 +10,7 @@ namespace CodingTracker
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hi hi hi");
+            Console.WriteLine("Hi hi hi... hello hello");
         }
     }
 }
